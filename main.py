@@ -1,3 +1,5 @@
+# check if connection is made successfully from mongodb atlas
+
 from sensor.configuration.mongodb_connections import MongoDBClient
 
 if __name__ == "__main__":

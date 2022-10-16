@@ -1,0 +1,1 @@
+## data is inside mogodb. need to bring the data to current dir, this will fetch data from mongodb

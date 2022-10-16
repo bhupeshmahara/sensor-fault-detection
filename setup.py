@@ -16,5 +16,5 @@ setup(
     author = "Bhupesh Mahara",
     author_eamil = "bhupeshmahara@gmail.com",
     packages = find_packages(),
-    install_require = get_requirements() # pymongo=4.2.0
+    install_require = get_requirements() # from requirements.txt file
 )

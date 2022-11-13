@@ -131,4 +131,4 @@ dmypy.json
 .pyre/
 
 # environment variables
-.env_variable.py
+sensor/constant/*
